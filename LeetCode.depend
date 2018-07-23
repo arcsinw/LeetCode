@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1532051010 source:c:\users\wangx\documents\code blocks\leetcode\main.cpp
+	<iostream>
+	<string>
+
+1532052025 source:c:\users\wangx\documents\code blocks\leetcode\804.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1532073060 source:c:\users\wangx\documents\code blocks\leetcode\537.cpp
+	<string>
+	<regex>
+	<iostream>
+
+1532147849 source:c:\users\wangx\documents\code blocks\leetcode\557.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1532230966 source:c:\users\wangx\documents\code blocks\leetcode\824.cpp
+	<iostream>
+	<sstream>
+
+1532240418 source:c:\users\wangx\documents\code blocks\leetcode\vector_helper.cpp
+	"vector_helper.h"
+
+1532239892 source:c:\users\wangx\documents\code blocks\leetcode\832.cpp
+	<iostream>
+	<vector>
+
+1532238022 c:\users\wangx\documents\code blocks\leetcode\vector_helper.cpp
+	"vector_helper.h"
+
+1532240701 c:\users\wangx\documents\code blocks\leetcode\include\vector_helper.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
+1532240705 source:c:\users\wangx\documents\code blocks\leetcode\src\vector_helper.cpp
+	"vector_helper.h"
+
+1532240701 source:c:\users\wangx\documents\code blocks\leetcode\include\vector_helper.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
+1532240201 source:c:\users\wangx\documents\code blocks\leetcode\src\aa.cpp
+	"AA.h"
+
+1532240200 c:\users\wangx\documents\code blocks\leetcode\include\aa.h
+
+1532242489 source:c:\users\wangx\documents\code blocks\leetcode\src\832.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
+1532331664 source:c:\users\wangx\documents\code blocks\leetcode\src\856.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+
