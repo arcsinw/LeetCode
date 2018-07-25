@@ -36,6 +36,15 @@
 		</Compiler>
 		<Unit filename="bin/Debug/data.txt" />
 		<Unit filename="include/vector_helper.h" />
+		<Unit filename="src/1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="src/2.cpp" />
+		<Unit filename="src/520.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="src/537.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -68,7 +77,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="src/856.cpp" />
+		<Unit filename="src/856.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="src/vector_helper.cpp">
 			<Option compile="0" />
 			<Option link="0" />

@@ -59,9 +59,14 @@
 	<fstream>
 	<sstream>
 
-1532331664 source:c:\users\wangx\documents\code blocks\leetcode\src\856.cpp
+1532402809 source:c:\users\wangx\documents\code blocks\leetcode\src\856.cpp
 	<iostream>
 	<string>
 	<vector>
 	<stack>
+
+1532494883 source:c:\users\wangx\documents\code blocks\leetcode\src\1.cpp
+	<iostream>
+	<vector>
+	<algorithm>
 

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <algorithm>
 #include <stack>
 
 using namespace std;
@@ -35,22 +36,27 @@ void printStack(stack<char> &myStack)
 
 int scoreOfParentheses(string S)
 {
-    cout << S << endl;
-    stack<char> myStack;
     int score = 0;
+    int level = 0;
+    char last = 0;
 
     for (int i = 0; i < S.length(); i++)
     {
         if (S[i] == '(')
         {
-            myStack.push('(');
+            level++;
         }
-        else if (S[i] == ')') //和'('一起弹出栈
+        else if (S[i] == ')')
         {
+            level--;
 
+            if (last == '(')
+            {
+                score += 1 << level;
+            }
         }
 
-        printStack(myStack);
+        last = S[i];
     }
 
     return score;
@@ -63,4 +69,5 @@ int main()
     cout << scoreOfParentheses("()") << " expected: 1" << endl;
     cout << scoreOfParentheses("(())") << " expected: 2" << endl;;
     cout << scoreOfParentheses("()()") << " expected: 2" << endl;
+    cout << scoreOfParentheses("()((((()(()))))((()))()((())((()(())))(())))") << " expected: 123" << endl;
 }
