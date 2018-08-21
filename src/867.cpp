@@ -21,21 +21,41 @@ void printVector(vector< vector<int> > &matrix)
 
 vector<vector<int>> transpose(vector<vector<int>>& A)
 {
-    int shape = A.at(0).size();
+    vector<vector<int>> result;
 
-    cout << "Shape: " << shape << endl;
+    int row = A.size();
+    int col = A.at(0).size();
 
-    for (int i = 0; i < shape; i++)
+    cout << "Row: " << row << endl;
+    cout << "Column: " << col << endl;
+
+    for (int i = 0; i < col; i++)
     {
-        for (int j = 0; j <= i; j++)
+        vector<int> tmp;
+        for(int j = 0; j < row; j++)
         {
-            int tmp = A.at(i).at(j);
-            A.at(i).at(j) = A.at(j).at(i);
-            A.at(j).at(i) = tmp;
+            tmp.push_back(A.at(j).at(i));
         }
+        result.push_back(tmp);
     }
 
-    return A;
+    return result;
+
+//    int shape = A.at(0).size();
+//
+//    cout << "Shape: " << shape << endl;
+//
+//    for (int i = 0; i < shape; i++)
+//    {
+//        for (int j = 0; j <= i; j++)
+//        {
+//            int tmp = A.at(i).at(j);
+//            A.at(i).at(j) = A.at(j).at(i);
+//            A.at(j).at(i) = tmp;
+//        }
+//    }
+//
+//    return A;
 }
 
 int main()
@@ -57,7 +77,7 @@ int main()
 
     printVector(vec);
 
-    transpose(vec);
+    vector<vector<int>> result =  transpose(vec);
 
-    printVector(vec);
+    printVector(result);
 }
