@@ -41,6 +41,15 @@ void VectorHelper::printVector(vector<int> &vec)
     cout << endl;
 }
 
+void VectorHelper::printVector(vector<string> &vec)
+{
+    for (int i = 0; i < (int)vec.size(); i++)
+    {
+        cout << vec.at(i) << " ";
+    }
+    cout << endl;
+}
+
 void VectorHelper::printVector(vector< vector<int> > &matrix)
 {
     for (vector< vector<int> >::iterator matrix_iter = matrix.begin();
