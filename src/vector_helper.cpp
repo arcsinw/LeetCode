@@ -1,11 +1,6 @@
 
 #include "vector_helper.h"
 
-VectorHelper::VectorHelper()
-{
-
-}
-
 void VectorHelper::readVector(string file_path, vector< vector<int> > &matrix)
 {
     //./data.txt
