@@ -6,17 +6,6 @@
 
 using namespace std;
 
-bool isExist(int value, vector<int>& vec)
-{
-    vector<int>::iterator it = find(vec.begin(), vec.end(), value);
-    if (it != vec.end())
-    {
-        return true;
-    }
-
-    return false;
-}
-
 
 int flipgame(vector<int>& fronts, vector<int>& backs)
 {
@@ -29,7 +18,7 @@ int flipgame(vector<int>& fronts, vector<int>& backs)
     {
         if (fronts[i] == backs[i])
         {
-            intersect.push_back(fronts[i]);
+            intersect.insert(fronts[i]);
             continue;
         }
     }
