@@ -50,4 +50,6 @@ int main()
     assert(input1, removeOuterParentheses(input1), expected1);
     assert(input2, removeOuterParentheses(input2), expected2);
     assert(input3, removeOuterParentheses(input3), expected3);
+
+    printf("??)"); // ]
 }
