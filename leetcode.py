@@ -18,7 +18,7 @@ def isAc(problem):
 
 difficulty_dic = {
     1: "Easy",
-    2: "Normal",
+    2: "Medium",
     3: "Hard"
 }
 
@@ -71,8 +71,8 @@ if __name__ == "__main__":
     problems = leetcode_response.json()['stat_status_pairs']
 
     readme = ('## LeetCode' + os.linesep +
-              '|#|Title|Difficulty|Code|Blog|Note|' + "\n" +
-              '| :---: | :---: | :---: | :---: | :---: |:---:|' + "\n")
+              '|#|Title|Difficulty|Code|Blog|' + "\n" +
+              '| :---: | :---: | :---: | :---: | :---: |' + "\n")
 
     solved_problems = list(filter(isAc, problems))
     solved_problems = sorted(
