@@ -82,3 +82,7 @@ for (var i = 0; i < problems.length; i++) {
 }
 
 
+function writeFile(filepath, text) {
+
+}
+
