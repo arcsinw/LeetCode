@@ -6,6 +6,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[7.cpp](src/7.cpp)|[[LeetCode] 7. Reverse Integer](https://www.cnblogs.com/arcsinw/p/9510806.html)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[8.cpp](src/8.cpp)|[]()|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[20.cpp](src/20.cpp)|[[LeetCode] 20. Valid Parentheses](https://www.cnblogs.com/arcsinw/p/9455484.html)|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Easy|[21.cpp](src/21.cpp)|[[LeetCode] 21. Merge Two Sorted Lists](https://www.cnblogs.com/arcsinw/p/11264305.html)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[27.cpp](src/27.cpp)|[[LeetCode] 27. Remove Element](https://www.cnblogs.com/arcsinw/p/9533141.html)|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|Easy|[66.cpp](src/66.cpp)|[[LeetCode] 66. Plus One](https://www.cnblogs.com/arcsinw/p/9574480.html)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[136.cpp](src/136.cpp)|[[LeetCode] 136. Single Number](https://www.cnblogs.com/arcsinw/p/10403616.html)|
@@ -14,6 +15,7 @@
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|Easy|[176.cpp](src/176.cpp)|[]()|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|Easy|[181.cpp](src/181.cpp)|[]()|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|Easy|[182.cpp](src/182.cpp)|[]()|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[206.cpp](src/206.cpp)|[]()|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|Easy|[292.cpp](src/292.cpp)|[]()|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|Medium|[338.cpp](src/338.cpp)|[]()|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|Easy|[344.cpp](src/344.cpp)|[]()|
@@ -48,7 +50,7 @@
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|Medium|[807.cpp](src/807.cpp)|[[LeetCode] 807. Max Increase to Keep City Skyline](https://www.cnblogs.com/arcsinw/p/9337551.html)|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|Easy|[811.cpp](src/811.cpp)|[[LeetCode] 811. Subdomain Visit Count](https://www.cnblogs.com/arcsinw/p/9492680.html)|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game)|Medium|[822.cpp](src/822.cpp)|[[LeetCode] 822. Card Flipping Game](https://www.cnblogs.com/arcsinw/p/10317250.html)|
-|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|Easy|[824.cpp](src/824.cpp)|[]()|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|Easy|[824.cpp](src/824.cpp)|[[LeetCode] 824. Goat Latin](https://www.cnblogs.com/arcsinw/p/11266909.html)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[832.cpp](src/832.cpp)|[]()|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|Easy|[852.cpp](src/852.cpp)|[[LeetCode] 852. Peak Index in a Mountain Array](https://www.cnblogs.com/arcsinw/p/9412208.html)|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)|Medium|[856.cpp](src/856.cpp)|[]()|

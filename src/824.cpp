@@ -55,5 +55,6 @@ string toGoatLatin(string S)
 int main()
 {
     string str = "I speak Goat Latin";
-    cout << toGoatLatin(str);
+    string str2 = "a b c";
+    cout << toGoatLatin(str2);
 }
