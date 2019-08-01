@@ -1,4 +1,5 @@
-## LeetCode
+## LeetCode
+
 |#|Title|Difficulty|Code|Blog|
 | :---: | :---: | :---: | :---: | :---: |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[1.cpp](src/1.cpp)|[[LeetCode] 1. Two Sum](https://www.cnblogs.com/arcsinw/p/9365603.html)|
@@ -9,6 +10,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Easy|[21.cpp](src/21.cpp)|[[LeetCode] 21. Merge Two Sorted Lists](https://www.cnblogs.com/arcsinw/p/11264305.html)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[27.cpp](src/27.cpp)|[[LeetCode] 27. Remove Element](https://www.cnblogs.com/arcsinw/p/9533141.html)|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|Easy|[66.cpp](src/66.cpp)|[[LeetCode] 66. Plus One](https://www.cnblogs.com/arcsinw/p/9574480.html)|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|[104.cpp](src/104.cpp)|[[LeetCode] 104. Maximum Depth of Binary Tree](https://www.cnblogs.com/arcsinw/p/11281362.html)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[136.cpp](src/136.cpp)|[[LeetCode] 136. Single Number](https://www.cnblogs.com/arcsinw/p/10403616.html)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|[155.cpp](src/155.cpp)|[[LeetCode] 155. Min Stack](https://www.cnblogs.com/arcsinw/p/11276835.html)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Easy|[167.cpp](src/167.cpp)|[[LeetCode] 167. Two Sum II - Input array is sorted](https://www.cnblogs.com/arcsinw/p/9648750.html)|
