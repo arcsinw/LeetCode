@@ -37,7 +37,7 @@ if __name__ == "__main__":
     blogs = []
 
     while (True):
-        print("current: %s" % blog_pageIndex)
+        print("current_page: %s" % blog_pageIndex)
         response = session.get(blog_url % blog_pageIndex)
         blog_pageIndex = blog_pageIndex + 1
         items = response.html.find('div.postTitle')

@@ -1,5 +1,4 @@
-## LeetCode
-
+## LeetCode
 |#|Title|Difficulty|Code|Blog|
 | :---: | :---: | :---: | :---: | :---: |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[1.cpp](src/1.cpp)|[[LeetCode] 1. Two Sum](https://www.cnblogs.com/arcsinw/p/9365603.html)|
@@ -14,6 +13,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[136.cpp](src/136.cpp)|[[LeetCode] 136. Single Number](https://www.cnblogs.com/arcsinw/p/10403616.html)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|[155.cpp](src/155.cpp)|[[LeetCode] 155. Min Stack](https://www.cnblogs.com/arcsinw/p/11276835.html)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Easy|[167.cpp](src/167.cpp)|[[LeetCode] 167. Two Sum II - Input array is sorted](https://www.cnblogs.com/arcsinw/p/9648750.html)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element)|Easy|[169.cpp](src/169.cpp)|[[LeetCode] 169. Majority Element](https://www.cnblogs.com/arcsinw/p/11301760.html)|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|Easy|[175.cpp](src/175.cpp)|[]()|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|Easy|[176.cpp](src/176.cpp)|[]()|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|Easy|[181.cpp](src/181.cpp)|[]()|
@@ -43,7 +43,7 @@
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|Easy|[665.cpp](src/665.cpp)|[[LeetCode] 665. Non-decreasing Array](https://www.cnblogs.com/arcsinw/p/10661968.html)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[700.cpp](src/700.cpp)|[]()|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[701.cpp](src/701.cpp)|[[LeetCode] 701. Insert into a Binary Search Tree](https://www.cnblogs.com/arcsinw/p/10289445.html)|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[709.cpp](src/709.cpp)|[]()|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[709.cpp](src/709.cpp)|[[LeetCode] 709. To Lower Case](https://www.cnblogs.com/arcsinw/p/11303250.html)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|Easy|[724.cpp](src/724.cpp)|[]()|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|Easy|[728.cpp](src/728.cpp)|[[LeetCode] 728. Self Dividing Numbers](https://www.cnblogs.com/arcsinw/p/9419077.html)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[771.cpp](src/771.cpp)|[]()|
