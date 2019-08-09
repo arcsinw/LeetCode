@@ -26,7 +26,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|[412.cpp](src/412.cpp)|[[LeetCode] 412. Fizz Buzz](https://www.cnblogs.com/arcsinw/p/9473896.html)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|Easy|[461.cpp](src/461.cpp)|[[LeetCode] 461. Hamming Distance](https://www.cnblogs.com/arcsinw/p/9395440.html)|
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|Easy|[476.cpp](src/476.cpp)|[[LeetCode] 476. Number Complement](https://www.cnblogs.com/arcsinw/p/9473291.html)|
-|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|Easy|[482.cpp](src/482.cpp)|[]()|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|Easy|[482.cpp](src/482.cpp)|[[LeetCode] 482. License Key Formatting](https://www.cnblogs.com/arcsinw/p/11329127.html)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row)|Easy|[500.cpp](src/500.cpp)|[[LeetCode] 500. Keyboard Row](https://www.cnblogs.com/arcsinw/p/9473187.html)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|Easy|[509.cpp](src/509.cpp)|[[LeetCode] 509. Fibonacci Number](https://www.cnblogs.com/arcsinw/p/10284329.html)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|Easy|[520.cpp](src/520.cpp)|[[LeetCode] 520. Detect Capital](https://www.cnblogs.com/arcsinw/p/9362054.html)|
