@@ -31,23 +31,33 @@ using namespace std;
 //}
 
 // remove two elements if they are not equal
+//int majorityElement(vector<int>& nums)
+//{
+//    stack<int> tony;
+//
+//    for(int a : nums)
+//    {
+//        if (tony.empty() || a == tony.top())
+//        {
+//            tony.push(a);
+//        }
+//        else
+//        {
+//            tony.pop();
+//        }
+//    }
+//
+//    return tony.top();
+//}
+
+int innerMajorityElement(vector<int>& nums, int left, int right)
+{
+
+}
+
 int majorityElement(vector<int>& nums)
 {
-    stack<int> tony;
 
-    for(int a : nums)
-    {
-        if (tony.empty() || a == tony.top())
-        {
-            tony.push(a);
-        }
-        else
-        {
-            tony.pop();
-        }
-    }
-
-    return tony.top();
 }
 
 int main()
