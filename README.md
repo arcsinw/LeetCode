@@ -26,6 +26,7 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|Easy|[383.cpp](src/383.cpp)|[[LeetCode] 383. Ransom Note](https://www.cnblogs.com/arcsinw/p/9473502.html)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|[412.cpp](src/412.cpp)|[[LeetCode] 412. Fizz Buzz](https://www.cnblogs.com/arcsinw/p/9473896.html)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|Easy|[461.cpp](src/461.cpp)|[[LeetCode] 461. Hamming Distance](https://www.cnblogs.com/arcsinw/p/9395440.html)|
+|470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7)|Medium|[470.cpp](src/470.cpp)|[[LeetCode] 470. Implement Rand10() Using Rand7()](https://www.cnblogs.com/arcsinw/p/11447186.html)|
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|Easy|[476.cpp](src/476.cpp)|[[LeetCode] 476. Number Complement](https://www.cnblogs.com/arcsinw/p/9473291.html)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|Easy|[482.cpp](src/482.cpp)|[[LeetCode] 482. License Key Formatting](https://www.cnblogs.com/arcsinw/p/11329127.html)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row)|Easy|[500.cpp](src/500.cpp)|[[LeetCode] 500. Keyboard Row](https://www.cnblogs.com/arcsinw/p/9473187.html)|
