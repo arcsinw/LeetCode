@@ -47,7 +47,7 @@
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[701.cpp](src/701.cpp)|[[LeetCode] 701. Insert into a Binary Search Tree](https://www.cnblogs.com/arcsinw/p/10289445.html)|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|Easy|[704.cpp](src/704.cpp)|[[LeetCode] 704. Binary Search](https://www.cnblogs.com/arcsinw/p/11388274.html)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[709.cpp](src/709.cpp)|[[LeetCode] 709. To Lower Case](https://www.cnblogs.com/arcsinw/p/11303250.html)|
-|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|Easy|[724.cpp](src/724.cpp)|[]()|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|Easy|[724.cpp](src/724.cpp)|[[LeetCode] 724. Find Pivot Index](https://www.cnblogs.com/arcsinw/p/11776765.html)|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|Easy|[728.cpp](src/728.cpp)|[[LeetCode] 728. Self Dividing Numbers](https://www.cnblogs.com/arcsinw/p/9419077.html)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[771.cpp](src/771.cpp)|[]()|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|Medium|[791.cpp](src/791.cpp)|[[LeetCode] 791. Custom Sort String](https://www.cnblogs.com/arcsinw/p/9347584.html)|
