@@ -20,6 +20,7 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|Easy|[182.cpp](src/182.cpp)|[]()|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|Easy|[183.cpp](src/183.cpp)|[]()|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[206.cpp](src/206.cpp)|[]()|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|Easy|[237.cpp](src/237.cpp)|[[LeetCode] 237. Delete Node in a Linked List](https://www.cnblogs.com/arcsinw/p/11934659.html)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|Easy|[292.cpp](src/292.cpp)|[]()|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|Medium|[338.cpp](src/338.cpp)|[]()|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|Easy|[344.cpp](src/344.cpp)|[]()|
@@ -57,7 +58,7 @@
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|Easy|[811.cpp](src/811.cpp)|[[LeetCode] 811. Subdomain Visit Count](https://www.cnblogs.com/arcsinw/p/9492680.html)|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game)|Medium|[822.cpp](src/822.cpp)|[[LeetCode] 822. Card Flipping Game](https://www.cnblogs.com/arcsinw/p/10317250.html)|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|Easy|[824.cpp](src/824.cpp)|[[LeetCode] 824. Goat Latin](https://www.cnblogs.com/arcsinw/p/11266909.html)|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[832.cpp](src/832.cpp)|[]()|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[832.cpp](src/832.cpp)|[[LeetCode] 832. Flipping an Image](https://www.cnblogs.com/arcsinw/p/11938141.html)|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|Easy|[852.cpp](src/852.cpp)|[[LeetCode] 852. Peak Index in a Mountain Array](https://www.cnblogs.com/arcsinw/p/9412208.html)|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)|Medium|[856.cpp](src/856.cpp)|[]()|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|[867.cpp](src/867.cpp)|[[LeetCode] 867. Transpose Matrix](https://www.cnblogs.com/arcsinw/p/9481262.html)|
