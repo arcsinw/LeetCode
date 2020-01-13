@@ -8,9 +8,12 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[20.cpp](src/20.cpp)|[[LeetCode] 20. Valid Parentheses](https://www.cnblogs.com/arcsinw/p/9455484.html)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Easy|[21.cpp](src/21.cpp)|[[LeetCode] 21. Merge Two Sorted Lists](https://www.cnblogs.com/arcsinw/p/11264305.html)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[27.cpp](src/27.cpp)|[[LeetCode] 27. Remove Element](https://www.cnblogs.com/arcsinw/p/9533141.html)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Medium|[62.cpp](src/62.cpp)|[[LeetCode] 62. Unique Paths](https://www.cnblogs.com/arcsinw/p/12182663.html)|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Medium|[64.cpp](src/64.cpp)|[[LeetCode] 64. Minimum Path Sum](https://www.cnblogs.com/arcsinw/p/12185284.html)|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|Easy|[66.cpp](src/66.cpp)|[[LeetCode] 66. Plus One](https://www.cnblogs.com/arcsinw/p/9574480.html)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|[104.cpp](src/104.cpp)|[[LeetCode] 104. Maximum Depth of Binary Tree](https://www.cnblogs.com/arcsinw/p/11281362.html)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[136.cpp](src/136.cpp)|[[LeetCode] 136. Single Number](https://www.cnblogs.com/arcsinw/p/10403616.html)|
+|139|[Word Break](https://leetcode.com/problems/word-break)|Medium|[139.cpp](src/139.cpp)|[]()|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|[155.cpp](src/155.cpp)|[[LeetCode] 155. Min Stack](https://www.cnblogs.com/arcsinw/p/11276835.html)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Easy|[167.cpp](src/167.cpp)|[[LeetCode] 167. Two Sum II - Input array is sorted](https://www.cnblogs.com/arcsinw/p/9648750.html)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|Easy|[169.cpp](src/169.cpp)|[[LeetCode] 169. Majority Element](https://www.cnblogs.com/arcsinw/p/11301760.html)|
@@ -74,5 +77,6 @@
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Easy|[965.cpp](src/965.cpp)|[[LeetCode] 965. Univalued Binary Tree](https://www.cnblogs.com/arcsinw/p/10306282.html)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|Easy|[977.cpp](src/977.cpp)|[[LeetCode] 977. Squares of a Sorted Array](https://www.cnblogs.com/arcsinw/p/10299356.html)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|Easy|[1021.cpp](src/1021.cpp)|[[LeetCode] 1021. Remove Outermost Parentheses](https://www.cnblogs.com/arcsinw/p/10738595.html)|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game)|Easy|[1025.cpp](src/1025.cpp)|[[LeetCode] 1025. Divisor Game](https://www.cnblogs.com/arcsinw/p/12188998.html)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[1108.cpp](src/1108.cpp)|[[LeetCode] 1108. Defanging an IP Address](https://www.cnblogs.com/arcsinw/p/11307895.html)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)|Easy|[1137.cpp](src/1137.cpp)|[[LeetCode] 1137. N-th Tribonacci Number](https://www.cnblogs.com/arcsinw/p/11425701.html)|
